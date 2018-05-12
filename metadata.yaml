@@ -1,0 +1,38 @@
+_repo: Two-Prisoners_33667
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Keep, Virginia Hynson
+    aliases:
+    - Keep, Virginia
+    - Clark, Virginia Hynson Keep
+    gutenberg_agent_id: '26409'
+    url: http://www.gutenberg.org/2009/agents/26409
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Page, Thomas Nelson
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '184'
+    url: http://www.gutenberg.org/2009/agents/184
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Nelson_Page
+description: ''
+gutenberg_issued: '2010-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor children -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Children with disabilities -- Juvenile fiction'
+- !lcc 'PZ'
+title: Two Prisoners
+url: http://www.gutenberg.org/ebooks/33667
